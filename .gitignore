@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+## base de datos
+*data/
+*data_m2_catastro/
+
 # C extensions
 *.so
 
